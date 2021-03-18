@@ -4,7 +4,7 @@ Below is a list of querries for PostGIS. You can test them [here](http://3.138.1
 user = user@user.com
 password = user1234
 
-![](https://media.giphy.com/media/WyrjQWhi7GJNDMglhw/giphy.gif | width=300)
+<img src="https://media.giphy.com/media/WyrjQWhi7GJNDMglhw/giphy.gif" width="300"/>
 
 
 ## List of PostGIS querries
