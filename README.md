@@ -5,8 +5,8 @@ user = user@user.com
 password = user1234
 
 <img
-src=http://www.giphy.com/gifs/WyrjQWhi7GJNDMglhw
-width="300">
+src="https://giphy.com/embed/WyrjQWhi7GJNDMglhw"
+width="480" height="326">
 
 ## List of PostGIS querries
 
