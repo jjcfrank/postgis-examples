@@ -3,9 +3,6 @@ Below is a list of querries for PostGIS. You can test them [here](http://3.138.1
 
 user = user@user.com | password = user1234
 
-![](examples/postgis-example-1)
-
-
 ## List of PostGIS querries
 
 1a. List all zones and a count of pixel values based on the LiDAR land-cover raster
@@ -29,6 +26,8 @@ GROUP BY aux3.zonename, aux3.value, "nyc-lc-legend".type_lc
 ORDER BY 2 ASC, 3 DESC, 4 DESC
 ;
 ```
+
+![](examples/postgis-example-1)
 
 1b. Similarly, this could be filtered by land-cover type using WHERE
 
