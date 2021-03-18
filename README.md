@@ -4,6 +4,10 @@ Below is a list of querries for PostGIS. You can test them [here](http://3.138.1
 user = user@user.com
 password = user1234
 
+<img
+src=http://www.giphy.com/gifs/WyrjQWhi7GJNDMglhw
+width="300">
+
 ## List of PostGIS querries
 
 1a. List all zones and a count of pixel values based on the LiDAR land-cover raster
