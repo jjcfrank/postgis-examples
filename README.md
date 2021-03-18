@@ -27,7 +27,7 @@ ORDER BY 2 ASC, 3 DESC, 4 DESC
 ;
 ```
 
-![](examples/postgis-example-1)
+![](examples/postgis-example-1.gif)
 
 1b. Similarly, this could be filtered by land-cover type using WHERE
 
