@@ -1,5 +1,5 @@
 # PostGIS command examples for learning and testing
-Below is a list of querries for PostGIS. You can test them [here](http://3.138.138.81) - a geospatial database using PgAdmin. To access it, use the credentials below:
+Below is a list of querries for PostGIS. You can test them [here](13.59.238.131) - a geospatial database using PgAdmin. To access it, use the credentials below:
 
 user = user@user.com  |  password = user1234
 
